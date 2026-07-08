@@ -28,3 +28,18 @@ An automated simulation of the card game War. Two virtual players are dealt half
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/YourUsername/Python-Classic-Games.git](https://github.com/YourUsername/Python-Classic-Games.git)
+
+## ▶️ Run the Project
+
+Navigate into the project directory:
+
+```bash
+cd Python-Classic-Games
+```
+
+Run the game of your choice using Python 3:
+
+```bash
+python <game_name>.py
+```
+
